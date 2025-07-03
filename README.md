@@ -47,7 +47,7 @@ The project uses a **component-based architecture** in React for better scalabil
 
 ---
 
-## Wellio-frontend
+/Wellio-frontend
 │── /public Static assets
 │── /src
 │  |── api/ Mock API configurations

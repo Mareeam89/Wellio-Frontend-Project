@@ -43,7 +43,7 @@ This project is **frontend-only** and uses **mock APIs** to replicate backend se
 The project uses a **component-based architecture** in React for better scalability and maintainability.
 
 # Project Name
-**Wellio Porject**
+**Wellio Project**
 
 ---
 

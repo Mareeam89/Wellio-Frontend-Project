@@ -1,4 +1,4 @@
-# Chronox - Frontend Project
+# Wellio - Frontend Project
 
 Wellio is a health management web application that helps users track their vital health data, manage medications, and consult trusted health experts — all in one simple, user-friendly interface.
 
@@ -45,16 +45,9 @@ The project uses a **component-based architecture** in React for better scalabil
 # Project Name
 **Wellio Porject**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
 ---
 
-/chronox-frontend
+## Wellio-frontend
 ├── public/ # Static assets
 ├── src/
 │ ├── api/ # Mock API configurations
@@ -128,11 +121,11 @@ All API interactions are simulated using mock API tools.
 ---
 
 ## 👩‍💻 Contributors
-Mariam Deborah Raji – Frontend Development, UI/UX
-📧 mareeamraj@gmail.com
+*Mariam Deborah Raji – Frontend Development, UI/UX*
+*📧 mareeamraj@gmail.com*
 
-Cjay Chijioke Nnabueze – Frontend Development, API Integration
-📧 chijiokennabueze@gmail.com
+*Cjay Chijioke Nnabueze – Frontend Development, API Integration*
+*📧 chijiokennabueze@gmail.com*
 
-Anthony Igbodiegwu – Frontend Development, Testing
-📧 peakybeetle@gmail.com
+*Anthony Igbodiegwu – Frontend Development, Testing*
+*📧 peakybeetle@gmail.com*

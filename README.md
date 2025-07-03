@@ -48,7 +48,7 @@ The project uses a **component-based architecture** in React for better scalabil
 ---
 
 ## Wellio-frontend
-│── /public # Static assets
+│── /public Static assets
 │── /src
 │  |── api/ Mock API configurations
 │  |── components/ Reusable UI components
@@ -59,19 +59,6 @@ The project uses a **component-based architecture** in React for better scalabil
 │  |── index.js Entry point
 │  |── styles/ Global and component-level styles
 │── /package.json
-│── README.md
-
-/church-website
-│── /public
-│   │── index.html (Homepage)
-│   │── sermons.html (Sermons Page)
-│   │── devotionals.html (Devotionals Page)
-│   │── announcements.html (Announcements Page)
-│   │── contact.html (Contact Page)
-│   │── admin.html (Admin Dashboard)
-│   │── styles.css (Modern CSS Styling)
-│   │── script.js (Dynamic JavaScript)
-│── /assets (Images, Icons, and Fonts)
 │── README.md
 
 ---

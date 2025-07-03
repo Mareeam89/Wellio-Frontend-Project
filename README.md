@@ -50,14 +50,14 @@ The project uses a **component-based architecture** in React for better scalabil
 ## Wellio-frontend
 │── /public # Static assets
 │── /src
-│  |── api/ # Mock API configurations
-│  |── components/ # Reusable UI components
-│  |── pages/ # Application pages (Dashboard, Login, etc.)
-│  |── utils/ # Helper functions
-│  |── mocks/ # Mock API handlers (MSW or JSON Server)
-│  |── App.js # Root component
-│  |── index.js # Entry point
-│  |── styles/ # Global and component-level styles
+│  |── api/ Mock API configurations
+│  |── components/ Reusable UI components
+│  |── pages/ Application pages (Dashboard, Login, etc.)
+│  |── utils/ Helper functions
+│  |── mocks/ Mock API handlers (MSW or JSON Server)
+│  |── App.js  Root component
+│  |── index.js Entry point
+│  |── styles/ Global and component-level styles
 │── /package.json
 │── README.md
 

@@ -91,7 +91,7 @@ The project uses a **component-based architecture** in React for better scalabil
 
 ---
 
-http://localhost:5000
+http://localhost:3000
 
 ---
 

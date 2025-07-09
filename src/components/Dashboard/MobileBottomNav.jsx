@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const MobileBottomNav = ({ activeTabName }) => {
   const menuItems = [
-    { id: "dashboard", icon: IoHome, label: "Home" },
+    { id: "/", icon: IoHome, label: "Home" },
     { id: "health", icon: IoHeart, label: "Health" },
     { id: "coach", icon: IoPerson, label: "Coach" },
     { id: "specialist", icon: IoPeople, label: "Specialist" },
@@ -17,7 +17,7 @@ const MobileBottomNav = ({ activeTabName }) => {
         {menuItems.map((item) => (
           <Link
             key={item.id}
-            href={`/${item.id}`}
+            href={`/dashboard/${item.id}`}
             className={`flex-1 flex flex-col items-center justify-center py-[10px] xl:text-[12px] md:text-[11px] text-[10px] transition-colors cursor-pointer ${
               activeTabName === item.label ? "text-[#24CDAF]" : "text-gray-500 hover:text-black"
             }`}

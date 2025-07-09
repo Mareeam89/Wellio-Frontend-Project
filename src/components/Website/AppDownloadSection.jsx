@@ -8,7 +8,7 @@ import Image from "next/image";
 const AppDownloadSection = () => {
   return (
     <div className="relative w-full">
-      <Image src={DownloadAppBg} className="absolute top-0 left-0 bg-cover bg-center w-full h-full" />
+      <Image src={DownloadAppBg} alt="appdownload" className="absolute top-0 left-0 bg-cover bg-center w-full h-full" />
       <div className="relative z-10 max-w-7xl mx-auto sm:pt-10 max-sm:pt-12 md:px-8 px-4">
         <div className="flex max-sm:flex-col justify-between items-center sm:gap-16 gap-6">
           {/* Left Content */}

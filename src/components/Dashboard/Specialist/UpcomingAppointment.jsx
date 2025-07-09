@@ -2,7 +2,7 @@ import { FaCalendarAlt } from "react-icons/fa";
 import StarRating from "./StarRating";
 import { FaClock } from "react-icons/fa6";
 import Image from "next/image";
-import Cardiologist from "@/assets/images/Cardiologist.png";
+import Cardiologist from "../../../assets/images/Cardiologist.png";
 
 const UpcomingAppointment = () => {
   return (

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import StarRating from "./StarRating";
-import Endocrinologist from "@/assets/images/Endocrinologist.png";
+import Endocrinologist from "../../../assets/images/Endocrinologist.png";
 
 const RecommendedSpecialist = () => {
   return (

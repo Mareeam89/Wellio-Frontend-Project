@@ -1,7 +1,7 @@
 import SpecialistCard from "./SpecialistCard";
-import doctorOne from "@/assets/images/doctorOne.png";
-import doctorTwo from "@/assets/images/doctorTwo.png";
-import doctorThree from "@/assets/images/doctorThree.png";
+import doctorOne from "../../../assets/images/doctorOne.png";
+import doctorTwo from "../../../assets/images/doctorTwo.png";
+import doctorThree from "../../../assets/images/doctorThree.png";
 
 const SpecialistsNearYou = () => {
   const specialists = [

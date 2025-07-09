@@ -1,6 +1,6 @@
 import { FaSearch } from "react-icons/fa";
 import { FaFilter, FaUser } from "react-icons/fa6";
-import profilePicture from "@/assets/images/profilePicture.png";
+import profilePicture from "../../../assets/images/profilePicture.png";
 import Image from "next/image";
 
 const Header = () => {

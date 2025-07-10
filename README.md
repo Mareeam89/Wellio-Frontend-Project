@@ -121,10 +121,10 @@ All API interactions are simulated using mock API tools.
 ---
 
 ## 👩‍💻 Contributors
-*Mariam Deborah Raji – Frontend Development, UI/UX*
+*Cjay Chijioke Nnabueze – Frontend Development, UI/UX*
 *📧 mareeamraj@gmail.com*
 
-*Cjay Chijioke Nnabueze – Frontend Development, API Integration*
+*Mariam Deborah Raji – Frontend Development, API Integration*
 *📧 chijiokennabueze@gmail.com*
 
 *Anthony Igbodiegwu – Frontend Development, Testing*

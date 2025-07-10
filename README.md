@@ -1,5 +1,7 @@
 # Wellio - Frontend Project
 
+![Coach Page](public/Coach_Page.png)
+
 Wellio is a health management web application that helps users track their vital health data, manage medications, and consult trusted health experts — all in one simple, user-friendly interface.
 
 This project focuses solely on the **frontend** and utilizes **mock API tools** to simulate backend functionality for seamless development and testing.
